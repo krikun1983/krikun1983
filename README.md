@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, I'm Stanislav Akhmadeev
 
-<!--
-**krikun1983/krikun1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm beginner _frontend-developer_
 
-Here are some ideas to get you started:
+### My skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![Webpack](https://img.shields.io/badge/-webpack-090909?style=for-the-badge&logo=webpack)
+![Scss](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=sass)
+![BEM](https://img.shields.io/badge/-BEM-090909?style=for-the-badge&logo=bem)
+
+### In the process of studying:
+
+![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+
+### Сheck my portfolio [Portfolio](https://github.com/krikun1983/Portfolio)
+
+Contacts:
+
+### ✉️ akhmadeevst@gmail.com
+
+### [linkedin](https://www.linkedin.com/in/stanislav-akhmadeev/)
+
+### [Codewars](https://www.codewars.com/users/krikun1983)
