@@ -26,3 +26,7 @@ Contacts:
 ### [linkedin](https://www.linkedin.com/in/stanislav-akhmadeev/)
 
 ### [Codewars](https://www.codewars.com/users/krikun1983)
+
+### Mobile: +79372253608
+
+### Telegram: @asvolga
